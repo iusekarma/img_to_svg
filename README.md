@@ -1,5 +1,5 @@
 # dot_matrix_img
-Just a simple python notenook to convert an image into a svg img made up dots.<br> As the name suggest this project was inspired by dot matrix pattern of ink printing. Though this version only creates a greyscale image.
+Just a simple python notenook (and a python command line script) to convert an image into a svg img made up dots.<br> As the name suggest this project was inspired by dot matrix pattern of ink printing. Though this version only creates a greyscale image.
 
 ### How to use
 * Open this notebook in Google Colab OR clone this repo and install requirements `pip install numpy opencv-python`. (I prefer google colab method)
